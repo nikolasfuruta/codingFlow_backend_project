@@ -1,2 +1,2 @@
 # codingFlow_backend_project
-Repositório do projeto fullstack do Coding in Flow
+Backend do projeto fullstack do Coding in Flow
